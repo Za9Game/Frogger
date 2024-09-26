@@ -1,0 +1,1 @@
+void spawnCrocodile(int pipe_fds[]);

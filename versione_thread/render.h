@@ -1,0 +1,1 @@
+int render(WINDOW* w, game_info* gi, int client_socket);

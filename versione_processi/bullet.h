@@ -1,0 +1,1 @@
+void bullet(int pipe_fds[], int index);

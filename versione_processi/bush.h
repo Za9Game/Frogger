@@ -1,0 +1,1 @@
+void bush(int pipe_fds[], int index);
